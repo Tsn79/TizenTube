@@ -12,7 +12,7 @@
   "license": "GPL-3.0-only",
   "dependencies": {
     "@babel/preset-env": "^7.22.9",
-    "@rollup/plugin-babel": "^6.0.3",
+    "@rollup/plugin-babel": "^6.1.0",
     "@rollup/plugin-terser": "^0.4.3",
     "rollup": "^3.26.2",
     "rollup-plugin-string": "^3.0.0",
